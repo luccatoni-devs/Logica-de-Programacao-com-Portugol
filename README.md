@@ -7,7 +7,7 @@ Este repositório contém exercícios e algoritmos básicos de lógica de progra
 - **IDE:** VisualG
 
 ## 🚀 Como Executar
-1. Baixe e instale o [VisualG](https://sourceforge.net/projects/visualg/)
+1. Baixe e instale o [VisualG]([https://sourceforge.net/projects/visualg/](https://sourceforge.net/projects/visualg30/))
 2. Clone este repositório: git clone https://github.com/luccatoni-devs/Logica-de-Programacao-com-Portugol.git
 3. Abra os arquivos `.pg` no VisualG e execute os códigos.
 
